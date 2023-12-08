@@ -5,27 +5,27 @@
             <li><span class="rootTree">ASSISTANT_API_OPENAI</span>
                 <ul>
                     <div class="children">
-                        <li> <a href="./assistant_api_openai/index.html" target="">Assistant API da OpenAI ➚ </a></li>
+                        <li> <a href="assistant_api_openai/index.html" target="">Assistant API da OpenAI ➚ </a></li>
                     </div>
                 </ul>
             </li>
             <li><span class="rootTree">DATABASE</span>
                 <ul>
                     <div class="children">
-                        <li> <a href="./database/index.html" target="">Bancos de dados do projeto ➚ </a></li>
+                        <li> <a href="database/index.html" target="">Bancos de dados do projeto ➚ </a></li>
                     </div>
                 </ul>
             </li>
-            <li> <a href="./index.html" target="">project.ph.app.br ➚ </a></li>
-            <li> <a href="./readme.html" target="">project.ph.app.br ➚ </a></li>
+            <li> <a href="index.html" target="">project.ph.app.br ➚ </a></li>
+            <li> <a href="readme.html" target="">project.ph.app.br ➚ </a></li>
             <li><span class="rootTree">TEMPLATES</span>
                 <ul>
                     <div class="children">
-                        <li> <a href="./templates/modelo01.html" target="">Modelo 01 de documento markdown ➚ </a></li>
+                        <li> <a href="templates/modelo01.html" target="">Modelo 01 de documento markdown ➚ </a></li>
                     </div>
                 </ul>
             </li>
-            <li> <a href="./tipue_results.html" target="">Pesquisa palavras ou frase no site ➚ </a></li>
+            <li> <a href="tipue_results.html" target="">Pesquisa palavras ou frase no site ➚ </a></li>
         </ul>
     </div>
 </div> <a href="/index.html">Home</a> <a href="/tipue_results.html" target=""><b> 🔎 </b></a>
