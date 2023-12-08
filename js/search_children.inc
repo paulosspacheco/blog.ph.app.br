@@ -11,7 +11,7 @@
     <div class="search-button">
       <input
         type="image" 
-        src="/js/search.png"
+        src="./js/search.png"
         id="tipue_search_button"
         onclick="this.form.submit();"
       />
